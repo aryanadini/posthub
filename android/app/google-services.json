@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "333564332457",
+    "project_id": "posthub-caa0a",
+    "storage_bucket": "posthub-caa0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333564332457:android:47622d1e2a7e3725fadcb8",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333564332457-0u0m622cm07bpbrmgndinrg161h85v4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "9c66d86520dcd51f7891d653a2502ca8e5a66c2c"
+          }
+        },
+        {
+          "client_id": "333564332457-neib3gn7mhji566n78jo3scnesga3gff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZh7f_lgIQk-NcuU4umKMwOJzeD372wjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333564332457-is3bp0hajb1514mnfiljp7s6bd0s60hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333564332457:android:31fddac80c30df48fadcb8",
+        "android_client_info": {
+          "package_name": "com.example.posthub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333564332457-neib3gn7mhji566n78jo3scnesga3gff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZh7f_lgIQk-NcuU4umKMwOJzeD372wjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333564332457-is3bp0hajb1514mnfiljp7s6bd0s60hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
